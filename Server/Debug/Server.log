@@ -1,0 +1,4 @@
+﻿  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\CSED 22\7th term\networks\assignments\Server\main.cpp(155,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Server.vcxproj -> D:\CSED 22\7th term\networks\assignments\Server\Debug\Server.exe
